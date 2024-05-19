@@ -25,4 +25,5 @@ public class Usuario {
         System.out.println("Novo Status > TV Ligada? " + smartTv.ligada);
 
     }
+    
 }
